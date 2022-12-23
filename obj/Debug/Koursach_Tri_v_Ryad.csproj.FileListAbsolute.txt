@@ -1,0 +1,81 @@
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\0.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\1.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\2.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\3.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\4.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\imgs\5.png
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe.config
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.pdb
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.dll
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.xml
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.AssemblyReference.cache
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\AddName.baml
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\MainWindow.baml
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\AddName.g.cs
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\MainWindow.g.cs
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\App.g.cs
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_Content.g.cs
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.cache
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.lref
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.g.resources
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.Properties.Resources.resources
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.GenerateResource.cache
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.CoreCompileInputs.cache
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.CopyComplete
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.exe
+D:\учеба\2й курс\щеглов\курсач\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.pdb
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\0.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\1.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\2.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\3.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\4.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\imgs\5.png
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe.config
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.pdb
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csprojAssemblyReference.cache
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\AddName.g.cs
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\MainWindow.g.cs
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\App.g.cs
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_Content.g.cs
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.cache
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.lref
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\AddName.baml
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\MainWindow.baml
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.g.resources
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.Properties.Resources.resources
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.GenerateResource.cache
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.CopyComplete
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.exe
+C:\Users\Sergey Gerasimenko\Desktop\blender\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.pdb
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\0.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\1.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\2.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\3.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\4.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\imgs\5.png
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe.config
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.exe
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\Koursach Tri v Ryad.pdb
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.AssemblyReference.cache
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\AddName.g.cs
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\MainWindow.g.cs
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\App.g.cs
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_Content.g.cs
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.cache
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad_MarkupCompile.lref
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\AddName.baml
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\MainWindow.baml
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.g.resources
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.Properties.Resources.resources
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.GenerateResource.cache
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.CoreCompileInputs.cache
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach_Tri_v_Ryad.csproj.CopyComplete
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.exe
+C:\Users\Вазген\Desktop\учеба\пиоги\Koursach Tri v Ryad\obj\Debug\Koursach Tri v Ryad.pdb
